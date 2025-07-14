@@ -27,4 +27,3 @@ All notes are written in Markdown and can be viewed with:
 Maintained by [@TRUBDUBZ](https://github.com/TRUBDUBZ)
 
 ---
-
