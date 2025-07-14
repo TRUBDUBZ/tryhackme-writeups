@@ -1,0 +1,18 @@
+# macOS junk
+.DS_Store
+
+# Obsidian workspace settings
+.obsidian/workspace
+.obsidian/appearance.json
+
+# System files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.log
