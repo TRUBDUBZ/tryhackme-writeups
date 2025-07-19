@@ -190,13 +190,14 @@ cat /root/root.txt
 |---------------|------------------------------------------------------------------------------------------|
 | `nmap`        | Network scanning and service enumeration                                                 |
 | `wpscan`      | WordPress vulnerability and user enumeration; brute-force login attempts                 |
-| `rockyou.txt` | Common password wordlist used for brute-forcing credentials                             |
-| `msfconsole` / `Metasploit` | Exploitation framework used to run CVE-2019-8943 module                             |
-| `meterpreter` | Post-exploitation shell provided by Metasploit                                          |
+| `rockyou.txt` | Common password wordlist used for brute-forcing credentials                              |
+| `msfconsole` / `Metasploit` | Exploitation framework used to run CVE-2019-8943 module                    |
+| `meterpreter` | Post-exploitation shell provided by Metasploit                                           |
 | `ltrace`      | Traces library calls to inspect how a binary interacts with its environment              |
 | `find`        | Used to locate files (e.g., with SUID bit or named `user.txt`)                           |
 | `export`      | Sets environment variables (used to escalate privileges with `checker`)                  |
-| `python`      | Used to upgrade shell for better TTY handling                                           |
+| `python`      | Used to upgrade shell for better TTY handling                                            |
+
 [[CTF Notes]]
 
 
