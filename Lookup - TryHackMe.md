@@ -222,3 +222,5 @@ sudo look '' /root/root.txt
 - Enumeration is key — don't skip username fuzzing or assume one user is enough.
 - SUID binaries may be more dangerous than they appear, especially custom ones.
 - Always check what a binary depends on (`$PATH`, environment variables, etc.)
+
+[[CTF Notes]]
