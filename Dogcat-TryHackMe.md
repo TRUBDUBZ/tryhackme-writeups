@@ -1,4 +1,4 @@
-- **Target IP: *10.10.32.141*
+- **Target IP: 10.10.32.141** 
 - **Difficulty: Medium**
 ---
 
